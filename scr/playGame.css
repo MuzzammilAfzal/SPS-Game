@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    background-color: green;
+}
+button{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#you{
+    font-size: larger;
+    text-align: center;
+    display: inline;
+
+}
+#youValue{
+    font-size: larger;
+    text-align: center;
+    display: inline;
+}
+#comp{
+    font-size: larger;
+    text-align: center;
+    display: inline;
+}
+#compValue{
+    font-size: larger;
+    text-align: center;
+    display: inline;
+}
+.value{
+text-align: center;
+ display:run-in
+}
+#restart{
+    text-align: center;
+    background-color:tomato;
+    height: 50px;
+    width: 250px;
+
+
+}
+.restart{
+    text-align: center;
+}
+#result{
+    text-align: center;
+}
+.result{
+    height: 40vmin;
+}
+.form {
+    text-align: center;
+    margin: 40px;
+}
+#Data{
+    text-align: center;
+    background-color:tomato;
+    height: 50px;
+    width: 250px; 
+    margin-top: 30px;
+}
